@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on several different projects
+- 🌱 I’m currently learning React Express PostgreSQL Node 
+- 👯 I’m looking to collaborate on Anything! I love to help and learn.
+- 🤔 I’m looking for help with Learning more advanced Web Development skills
+- 💬 Ask me about Keyboards, Web development, Gaming, and anything else you can think of!
+- 📫 How to reach me: jvon1197@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to compete in Fighting Games and have attended several high profile tournaments!
 
 <!--
 **JakeVonOgden/JakeVonOgden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
